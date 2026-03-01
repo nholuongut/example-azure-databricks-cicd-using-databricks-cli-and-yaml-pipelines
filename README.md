@@ -18,7 +18,7 @@
 
 This repo contains example Azure Databricks CICD patterns using Databricks CLI and YAML pipelines.
 
-I also wrote a blog post [Managing Azure Databricks Workspace IP Access Lists via CICD](| [IP Access Lists via CICD](docs/IPAccessListsviaCICD.md)) to explain some things used in this repo.
+I also wrote a README ([Managing Azure Databricks Workspace IP Access Lists via CICD](docs/IPAccessListsviaCICD.md)) to explain some things used in this repo.
 
 Azure DevOps Pipeline Lifecycle Overview:
 ![](images/devops-pipeline-lifecycle-stages.png)
